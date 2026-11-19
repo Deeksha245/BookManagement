@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 299
+  },
+  {
+    "id": 3,
+    "title": "The diary of mary",
+    "author": "Mary",
+    "price": 5000
+  }
+]
